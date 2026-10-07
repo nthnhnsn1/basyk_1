@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Basyk</title>
+  
+  <!-- Forces the app to open full-screen and act natively -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Basyk">
+  
+  <!-- Creates a temporary black home screen icon with a white 'B' -->
+  <link rel="apple-touch-icon" href="https://via.placeholder.com/180/000000/FFFFFF?text=B">
+  
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #ffffff;
+      color: #000000;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    .text-content {
+      font-size: 16px;
+      text-transform: uppercase;
+      line-height: 2.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="text-content">
+    GOD_IS_REAL<br>
+    ALHAMDULLILAH!<br>
+    OCTOBER 6, 2026
+  </div>
+</body>
+</html>
